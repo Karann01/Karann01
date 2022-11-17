@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karann01
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning C++ and Web Development
+- 🌱 I’m currently learning C++, DSA and Web Development
 - 💞️ I’m looking to collaborate on Web Designing 
 - 📫 How to reach me : Email me on - karandhongade2001@gmail.com, karan.dhongade.cs@ghrce.raisoni.net
 
